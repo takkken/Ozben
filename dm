@@ -1,1 +1,1 @@
-değil
+aktif
